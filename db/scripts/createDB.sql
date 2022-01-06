@@ -1,0 +1,1 @@
+CREATE DATABASE `ecommerce` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;

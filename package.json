@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "knex": "^0.95.15",
+    "mysql": "^2.18.1",
+    "sqlite3": "^5.0.2"
+  },
+  "name": "desafio8-primerbd",
+  "version": "1.0.0",
+  "description": "primer bd",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node /src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gh",
+  "license": "ISC"
+}
